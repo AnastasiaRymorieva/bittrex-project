@@ -1,0 +1,86 @@
+2020-08-10 19:19:15 INFO  LoginPage:37 - Logins as hr
+2020-08-10 19:43:47 INFO  LoginPage:37 - Logins as hr
+2020-08-10 19:43:48 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 19:46:42 INFO  LoginPage:37 - Logins as hr
+2020-08-10 19:46:43 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:26:16 INFO  LoginPage:37 - Logins as hr
+2020-08-10 20:26:17 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:27:52 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 20:27:52 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 20:27:57 INFO  LoginPage:37 - Logins as hr
+2020-08-10 20:27:57 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:35:38 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 20:35:38 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 20:35:43 INFO  LoginPage:37 - Logins as hr
+2020-08-10 20:35:44 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:35:44 INFO  ActivityStreamPage:39 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 20:37:45 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 20:37:45 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 20:37:52 INFO  LoginPage:37 - Logins as hr
+2020-08-10 20:37:53 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:37:53 INFO  ActivityStreamPage:39 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 20:39:09 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 20:39:09 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 20:39:15 INFO  LoginPage:37 - Logins as hr
+2020-08-10 20:39:15 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:39:15 INFO  ActivityStreamPage:39 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 20:43:32 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 20:43:32 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 20:43:37 INFO  LoginPage:37 - Logins as hr
+2020-08-10 20:43:39 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:43:39 INFO  ActivityStreamPage:37 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 20:45:12 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 20:45:12 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 20:45:17 INFO  LoginPage:37 - Logins as hr
+2020-08-10 20:45:18 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:45:18 INFO  ActivityStreamPage:37 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 20:46:25 INFO  Hooks:17 - ::: Starting automation :::
+2020-08-10 20:46:25 INFO  Hooks:18 - Browser type: chrome
+2020-08-10 20:46:25 INFO  Hooks:19 - URL: http://login2.nextbasecrm.com
+2020-08-10 20:46:25 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 20:46:25 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 20:46:31 INFO  LoginPage:37 - Logins as hr
+2020-08-10 20:46:32 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:46:32 INFO  ActivityStreamPage:37 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 20:46:42 INFO  Hooks:26 - Taking a screenshot
+2020-08-10 20:46:43 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-10 20:50:39 INFO  Hooks:17 - ::: Starting automation :::
+2020-08-10 20:50:39 INFO  Hooks:18 - Browser type: chrome
+2020-08-10 20:50:39 INFO  Hooks:19 - URL: http://login2.nextbasecrm.com
+2020-08-10 20:50:39 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 20:50:39 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 20:50:44 INFO  LoginPage:37 - Logins as hr
+2020-08-10 20:50:45 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:50:45 INFO  ActivityStreamPage:37 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 20:50:55 INFO  Hooks:26 - Taking a screenshot
+2020-08-10 20:50:55 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-10 20:51:55 INFO  Hooks:17 - ::: Starting automation :::
+2020-08-10 20:51:55 INFO  Hooks:18 - Browser type: chrome
+2020-08-10 20:51:55 INFO  Hooks:19 - URL: http://login2.nextbasecrm.com
+2020-08-10 20:51:55 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 20:51:55 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 20:52:00 INFO  LoginPage:37 - Logins as hr
+2020-08-10 20:52:00 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:52:00 INFO  ActivityStreamPage:37 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 20:52:00 INFO  Hooks:26 - Taking a screenshot
+2020-08-10 20:52:01 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-10 20:59:40 INFO  Hooks:17 - ::: Starting automation :::
+2020-08-10 20:59:40 INFO  Hooks:18 - Browser type: chrome
+2020-08-10 20:59:40 INFO  Hooks:19 - URL: http://login2.nextbasecrm.com
+2020-08-10 20:59:40 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 20:59:40 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 20:59:44 INFO  LoginPage:37 - Logins as hr
+2020-08-10 20:59:45 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 20:59:45 INFO  ActivityStreamPage:37 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 20:59:50 INFO  ActivityStreamPage:47 - Clicking on the Send button
+2020-08-10 20:59:50 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-10 21:16:57 INFO  Hooks:17 - ::: Starting automation :::
+2020-08-10 21:16:57 INFO  Hooks:18 - Browser type: chrome
+2020-08-10 21:16:57 INFO  Hooks:19 - URL: http://login2.nextbasecrm.com
+2020-08-10 21:16:57 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 21:16:57 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 21:17:02 INFO  LoginPage:37 - Logins as hr
+2020-08-10 21:17:03 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 21:17:03 INFO  ActivityStreamPage:37 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 21:17:08 INFO  ActivityStreamPage:47 - Clicking on the Send button
+2020-08-10 21:17:08 INFO  Hooks:31 - ::: Ending automation :::
