@@ -84,3 +84,23 @@
 2020-08-10 21:17:03 INFO  ActivityStreamPage:37 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
 2020-08-10 21:17:08 INFO  ActivityStreamPage:47 - Clicking on the Send button
 2020-08-10 21:17:08 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-10 21:21:53 INFO  Hooks:17 - ::: Starting automation :::
+2020-08-10 21:21:53 INFO  Hooks:18 - Browser type: chrome
+2020-08-10 21:21:53 INFO  Hooks:19 - URL: http://login2.nextbasecrm.com
+2020-08-10 21:21:53 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 21:21:53 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 21:21:59 INFO  LoginPage:37 - Logins as hr
+2020-08-10 21:21:59 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 21:21:59 INFO  ActivityStreamPage:37 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 21:22:04 INFO  ActivityStreamPage:47 - Clicking on the Send button
+2020-08-10 21:22:04 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-10 21:22:17 INFO  Hooks:17 - ::: Starting automation :::
+2020-08-10 21:22:17 INFO  Hooks:18 - Browser type: chrome
+2020-08-10 21:22:17 INFO  Hooks:19 - URL: http://login2.nextbasecrm.com
+2020-08-10 21:22:17 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-10 21:22:17 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasiiarymorieva/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-10 21:22:24 INFO  LoginPage:37 - Logins as hr
+2020-08-10 21:22:25 INFO  BasePage:25 - Navigating to: Activity Stream
+2020-08-10 21:22:25 INFO  ActivityStreamPage:37 - File path: /Users/anastasiiarymorieva/Documents/cybertek/java folders/bittrex-project/src/test/resources/testData/testData.jpg
+2020-08-10 21:22:30 INFO  ActivityStreamPage:47 - Clicking on the Send button
+2020-08-10 21:22:30 INFO  Hooks:31 - ::: Ending automation :::

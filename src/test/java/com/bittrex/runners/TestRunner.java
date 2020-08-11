@@ -10,8 +10,8 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber.json"
         },
         features = "src/test/resources/features",
-        glue = "com/bittrex/step_definitions"
-//        tags = "@fileUploading",
+        glue = "com/bittrex/step_definitions",
+        tags = "@smoke"
 )
 @RunWith(Cucumber.class)
 public class TestRunner {
